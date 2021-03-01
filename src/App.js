@@ -69,7 +69,7 @@ function App() {
           <div className="media-container-row">
             <div className="title col-12 col-md-8">
               <h2 className="align-center pb-3 mbr-fonts-style display-1">Taljeet Singh</h2>
-              <h3 className="align-center mbr-light mbr-fonts-style display-6">
+              <h3 className="align-center mbr-light mbr-fonts-style display-5">
                 S/o Sdn. Kulwant Kaur & S. Gurbant Singh
               </h3>
             </div>
@@ -91,7 +91,7 @@ function App() {
           <div className="media-container-row">
             <div className="title col-12 col-md-8">
               <h2 className="align-center pb-3 mbr-fonts-style display-1">Veerinder Kaur</h2>
-              <h3 className="align-center mbr-light mbr-fonts-style display-6">
+              <h3 className="align-center mbr-light mbr-fonts-style display-5">
                 D/o Sdn. Ranvinder Kaur & S. Iqbal Singh </h3>
             </div>
           </div>
@@ -139,7 +139,7 @@ function App() {
                     </div>
 
                     <div className="card-box">
-                      <p className="block-text mbr-fonts-style display-6" style={{fontWeight: '600'}}>
+                      <p className="block-text mbr-fonts-style display-5" style={{fontWeight: '600'}}>
                         Raikot Road,
                                     <br />
                         Near Toll Barrier,
@@ -173,28 +173,28 @@ function App() {
               <div className="col-xs-3 col-sm-3 col-md-3">
                 <span className="number-wrap">
                   <span className="number display-2">{expire ? '00' : days}</span>
-                  <span mbr-text="" className="period display-6">Days</span>
+                  <span mbr-text="" className="period display-5">Days</span>
                   <span className="dot">:</span>
                 </span>
               </div>
               <div className="col-xs-3 col-sm-3 col-md-3">
                 <span className="number-wrap">
                   <span className="number display-2">{expire ? '00' : hours}</span>
-                  <span mbr-text="" className="period display-6">Hours</span>
+                  <span mbr-text="" className="period display-5">Hours</span>
                   <span className="dot">:</span>
                 </span>
               </div>
               <div className="col-xs-3 col-sm-3 col-md-3">
                 <span className="number-wrap">
                   <span className="number display-2">{expire ? '00' : minutes}</span>
-                  <span mbr-text="" className="period display-6">Minutes</span>
+                  <span mbr-text="" className="period display-5">Minutes</span>
                   <span className="dot">:</span>
                 </span>
               </div>
               <div className="col-xs-3 col-sm-3 col-md-3">
                 <span className="number-wrap">
                   <span className="number display-2">{expire ? '00' : seconds}</span>
-                  <span mbr-text="" className="period display-6">Seconds</span>
+                  <span mbr-text="" className="period display-5">Seconds</span>
                 </span>
               </div>
             </div>
