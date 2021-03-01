@@ -168,7 +168,7 @@ function App() {
           <div className="hoursCountdown" title="Hours"></div>
           <div className="minutesCountdown" title="Minutes"></div>
           <div className="secondsCountdown" title="Seconds"></div>
-          <div className="countdown pt-1 mt-2" data-due-date="2020/02/17">
+          <div className="countdown pt-1 mt-2" data-due-date="2021/03/07">
             <div className="row">
               <div className="col-xs-3 col-sm-3 col-md-3">
                 <span className="number-wrap">
@@ -213,7 +213,7 @@ function App() {
           <div className="media-container-row align-center mbr-white">
             <div className="row row-copirayt">
               <p className="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
-                © Copyright 2020 Gurpreet Singh - All Rights Reserved
+                © Copyright 2021 Gurpreet Singh - All Rights Reserved
                     <br />
                 Made with lots of{' '} <span className="fa fa-heart pulse2"></span>{' '}for his Friend
                 </p>
